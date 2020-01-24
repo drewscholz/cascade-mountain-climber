@@ -1,0 +1,132 @@
+- model: cascade_mountain_climber.Mountain
+  pk: 0
+  fields:
+    name: "Mount Garibaldi"
+    elevation: 8787
+    location: "B.C."
+
+- model: cascade_mountain_climber.Mountain
+  pk: 1
+  fields:
+    name: "Mount Baker"
+    elevation: 10778
+    location: "WA"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 2
+  fields:
+    name: "Glacier Peak"
+    elevation: 10541
+    location: "WA"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 3
+  fields:
+    name: "Mount Rainier"
+    elevation: 14411
+    location: "WA"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 4
+  fields:
+    name: "Mount Adams"
+    elevation: 12276
+    location: "WA"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 5
+  fields:
+    name: "Mount St. Helens"
+    elevation: 8365
+    location: "WA"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 6
+  fields:
+    name: "Mount Hood"
+    elevation: 11239
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 7
+  fields:
+    name: "Mount Jefferson"
+    elevation: 10497
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 8
+  fields:
+    name: "Three Fingered Jack"
+    elevation: 7841
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 9
+  fields:
+    name: "Mount Washington"
+    elevation: 7794
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 10
+  fields:
+    name: "North Sister"
+    elevation: 10085
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 11
+  fields:
+    name: "Middle Sister"
+    elevation: 10047
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 12
+  fields:
+    name: "South Sister"
+    elevation: 10358
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 13
+  fields:
+    name: "Broken Top"
+    elevation: 9175
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 14
+  fields:
+    name: "Mount Bachelor"
+    elevation: 9065
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 15
+  fields:
+    name: "Mount Theilsen"
+    elevation: 9182
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 16
+  fields:
+    name: "Mount McLoughlin"
+    elevation: 9495
+    location: "OR"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 17
+  fields:
+    name: "Mount Shasta"
+    elevation: 14162
+    location: "CA"
+
+- model: cascade_mountain_climber.Mountain
+  pk: 18
+  fields:
+    name: "Lassen Peak"
+    elevation: 10457
+    location: "CA"

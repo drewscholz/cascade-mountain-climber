@@ -1,0 +1,43 @@
+body {
+    /* background: url("/static/img/hood.JPG"); */
+    /* background: url("/static/img/summit.JPG"); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+    /* width: 100%; */
+    /* height: auto; */
+    /* 50% 0 no-repeat fixed; */
+    /* color: white; */
+    /* height: 650px; */
+    padding: 10px; 
+    background: url(/static/img/hood.jpg) no-repeat fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;  
+    width: 100%;
+    height: auto;
+}
+@media (max-width: 1024px) {
+    body {
+        padding: 10px; 
+        background: url(/static/img/summit.jpg) no-repeat fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;  
+        width: 100%;
+        height: auto;
+    }
+}
+
+#climb_display{
+    padding-top: 20px;
+}
+
+#climber_table {
+    padding-left: 10px;
+}
+
+#leaderboard {
+    padding-right:10px;
+}
